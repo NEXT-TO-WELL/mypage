@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh repo create actions --public)",
+      "Bash(gh repo create mypage --public)"
+    ]
+  }
+}
